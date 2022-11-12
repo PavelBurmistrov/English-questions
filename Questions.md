@@ -17,6 +17,7 @@
 17. How many hours can you spend at work? / Сколько часов ты готов уделять работе?
 18. Why should we hire you? / Почему мы должны вас нанять?
 
+
 1. What do you understand by OOP? / Как ты понимаешь ООП?
 2. What's the purpose of using OOPs concepts? / Цель использования ООП?
 3. What do you know about the main components of OOP? / Какие ты знаешь основные компоненты ООП?
