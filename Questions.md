@@ -1,3 +1,5 @@
+#### General questions
+
 1. Tell me something about yourself. / Расскажи что-нибудь о себе
 2. What's your favorite subject at university and why? / Какой твой любимый предмет в универе и почему?
 3. What achivement are you most proud of? / Каким достижением ты больше всего гордишься?
@@ -17,6 +19,7 @@
 17. How many hours can you spend at work? / Сколько часов ты готов уделять работе?
 18. Why should we hire you? / Почему мы должны вас нанять?
 
+#### Tech. questions
 
 1. What do you understand by OOP? / Как ты понимаешь ООП?
 2. What's the purpose of using OOPs concepts? / Цель использования ООП?
